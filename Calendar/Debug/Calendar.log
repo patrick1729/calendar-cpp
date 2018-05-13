@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Calendar.cpp
+c:\users\prateek mishra\desktop\calendar\calendar\calendar\calendar.cpp(486): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Calendar.vcxproj -> C:\Users\Prateek Mishra\Desktop\Calendar\Calendar\Debug\Calendar.exe
